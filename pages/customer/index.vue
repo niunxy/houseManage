@@ -1,7 +1,7 @@
 <template>
-	<div class="house-content">
+	<view class="house-content">
 		jhdfh 
-	</div>
+	</view>
 </template>
 
 <script>

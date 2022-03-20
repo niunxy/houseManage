@@ -1,7 +1,5 @@
 <template>
-	<view>
-		xfd
-	</view>
+	<view>登录</view>
 </template>
 
 <script>
